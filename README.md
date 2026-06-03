@@ -106,6 +106,13 @@ This project was developed with assistance from:
 - GitHub Copilot for code generation and autocomplete support
 - Claude Code for architectural suggestions, debugging support, and implementation guidance
 
+---
+
+## Author
+
+Vidhi Sheth
+Full Stack Engineer — .NET · Angular · Microservices · Azure · System Design
+
 ## 
 
 This is a private repository. If you'd like a live demo or code walkthrough, feel free to reach out.
