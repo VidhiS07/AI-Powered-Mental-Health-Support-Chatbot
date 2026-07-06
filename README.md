@@ -122,7 +122,7 @@ This project was developed with assistance from:
 ## Author
 
 Vidhi Sheth
-Full Stack Engineer — .NET · Angular · Microservices · Azure · System Design
+Senior Full-Stack Software Engineer | .NET, Angular, React, SQL Server, Azure | Cloud-Native & AI-Enabled Enterprise Applications | Healthcare, Insurance & FinTech
 
 ## 
 
