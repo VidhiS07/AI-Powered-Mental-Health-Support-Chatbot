@@ -122,6 +122,7 @@ This project was developed with assistance from:
 ## Author
 
 Vidhi Sheth
+
 Senior Full-Stack Software Engineer | .NET, Angular, React, SQL Server, Azure | Cloud-Native & AI-Enabled Enterprise Applications | Healthcare, Insurance & FinTech
 
 ## 
