@@ -35,7 +35,7 @@ RAG Pipeline
   ├── Vector Search (Qdrant)
   └── Context Retrieval
   ↓
-Local LLM (Ollama: Llama 3.1 / Mistral)
+Local LLM (Ollama: Llama 3.1)
   ↓
 Generated Response
   ↓
