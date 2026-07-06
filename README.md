@@ -8,6 +8,12 @@ The project is designed with a production-style architecture using a fully local
 
 ---
 
+## Demo - Screenshot
+
+
+
+---
+
 ## System Architecture
 
 ```text id="arch_ollama"
