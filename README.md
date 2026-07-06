@@ -12,6 +12,9 @@ The project is designed with a production-style architecture using a fully local
 
 ![Screenshot 1](Screenshot1.png)
 
+
+
+
 ![Screenshot 2](Screenshot2.png)
 
 ---
