@@ -10,8 +10,10 @@ The project is designed with a production-style architecture using a fully local
 
 ## Demo - Screenshot
 
-![1](screenshot1.png)
-![2](screenshot2.png)
+![Screenshot 1](screenshot1.png)
+
+![Screenshot 2](screenshot2.png)
+
 ---
 
 ## System Architecture
