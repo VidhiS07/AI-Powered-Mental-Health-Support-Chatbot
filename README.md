@@ -110,15 +110,6 @@ This chatbot is intended for educational and informational purposes only. It doe
 
 ---
 
-## AI-Assisted Development
-
-This project was developed with assistance from:
-
-- GitHub Copilot for code generation and autocomplete support
-- Claude Code for architectural suggestions, debugging support, and implementation guidance
-
----
-
 ## Author
 
 Vidhi Sheth
